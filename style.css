@@ -1,0 +1,13 @@
+body{
+    background-color: #654ea3;
+    background: linear-gradient(to right, #eaafc8, #654ea3);
+}
+body > div{
+
+}
+h1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+}
